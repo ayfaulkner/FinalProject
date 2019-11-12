@@ -6,3 +6,4 @@ THis is a new line
 downloaded from git hub repository 2019-11-11
 we downloaded data from the git hub repository on 2019-11-11
 \nAdapter file: adapters.fa
+working in branches
